@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b73391e555174a8499c6c9de63ae7556, type: 3}
+  m_Name: BeetSeeds
+  m_EditorClassIdentifier: 
+  name: Beet Seeds
+  icon: {fileID: 5655871100676735121, guid: bf2b5e7a29136284d943e12d3e0445d7, type: 3}
+  item: {fileID: 3939484544476445550, guid: 0c8d1df83005f284b8d900e10a0b16a4, type: 3}
+  equippable: 1
+  value: 8
+  plant: {fileID: 6960891178618177612, guid: 13bd1ec20ae8829419a0d3306ddfa39a, type: 3}
+  yOffset: 0.2
